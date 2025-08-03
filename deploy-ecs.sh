@@ -14,7 +14,7 @@ DEFAULT_REGION="us-east-1"
 DEFAULT_ECR_REPO="bia"
 DEFAULT_CLUSTER="cluster-bia-alb"
 DEFAULT_SERVICE="service-bia-alb"
-DEFAULT_TASK_FAMILY="task-def-bia-alb"
+DEFAULT_TASK_FAMILY="task-definicion-bia-alb"
 
 # Cores para output
 RED='\033[0;31m'
